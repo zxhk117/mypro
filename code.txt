@@ -1,4 +1,1 @@
-from django.http import HttpRequest
-
-def index(request):
-    return HttpRequest('index')
+new 111111
